@@ -1,0 +1,25 @@
+{
+  "name": "app_tkhtn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "expo-linear-gradient": "^15.0.8",
+    "express": "^5.2.1",
+    "mqtt": "^5.14.1",
+    "multer": "^2.0.2",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-paper": "^5.14.5",
+    "react-native-svg": "^15.15.1"
+  }
+}
